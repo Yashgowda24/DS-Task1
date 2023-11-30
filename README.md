@@ -1,4 +1,4 @@
-This repository contains the project, I have done during the Virtual Internship Program at Skill Intern India as a Data Science Intern
+This repository contains the project, I have done during the Virtual Internship Program at <b>Skill Intern India</b> as a <b>Data Science Intern</b>
 
 <h2>Overview</h2>
 <p> This repository contains a data science project focused on predicting the percentage of a student based on the number of study hours. The project utilizes machine learning techniques to build a predictive model that can assist in estimating a student's performance given their study hours.</p>
